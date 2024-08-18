@@ -18,4 +18,22 @@
 
 ### Backend:
 
-##
+- **Node.js**: JavaScript runtime environment
+- **Express.js**: Web framework for Node.js
+- **MongoDB**: NoSQL database
+- **Mongoose**: ODM for MongoDB
+- **Socket.io**: For WebSocket communication
+
+### Authentication
+- **JWT**: Token-based authentication for user login and session management
+
+### State Management:
+- **Context API / Redux**: For global state handling
+
+## *Usage*
+ 1. Sign Up: Create a new account using the registration form.
+ 2. Login: Access your account and start chatting.
+ 3. Private Chat Room: Initiate a private conversation.
+ 4. Real-Time Messaging: Send and Receive messages in real time.
+
+ ## *Screenshots*
