@@ -1,8 +1,8 @@
-## Real-Time Chat Application
+## *Real-Time Chat Application*
 
 *A full-stack real-time chat application built using the MERN(mongoDB, Express.js, React.js, Node.js) stack, designed to enble seamless communication between users in real-time.*
 
-## Features
+## *Features*
 
 - **Real-time communication**: Powered by Socket.io for live, instantaneous messaging.
 - **User Authentication**: Secure sign-up and login JWT (JSON Web Tokens).
@@ -37,3 +37,7 @@
  4. Real-Time Messaging: Send and Receive messages in real time.
 
  ## *Screenshots*
+
+ ### Login Page
+ 
+![Screenshot (1)](https://github.com/user-attachments/assets/c996e1ff-5972-41f1-bc7e-de3ef65fdb3a)
