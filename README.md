@@ -41,3 +41,22 @@
  ### Login Page
  
 ![Screenshot (1)](https://github.com/user-attachments/assets/c996e1ff-5972-41f1-bc7e-de3ef65fdb3a)
+
+### Signup Page
+
+<img width="960" alt="Screenshot 2" src="https://github.com/user-attachments/assets/68308467-3d68-49af-a565-9dac634fc951">
+
+### Landing Page
+
+<img width="960" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ffc7f87d-ff22-4c71-a9b1-c5b393e8f747">
+
+### Chat Interface
+
+<img width="960" alt="Screenshot 4" src="https://github.com/user-attachments/assets/d9f85929-b58d-475d-8837-a0790ad63e5e">
+
+## *Deployment*
+
+This project is deployed on Render, you can go and check it: https://chat-app-zmz1.onrender.com
+
+
+
