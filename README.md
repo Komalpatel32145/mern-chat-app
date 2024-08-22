@@ -13,7 +13,6 @@
 
 ### Frontend:
 - **React.js**: Component-based UI framework
-- **Socket.io-client**: For real-time, bidirectional communication
 - **CSS / Tailwind**
 
 ### Backend:
@@ -28,7 +27,7 @@
 - **JWT**: Token-based authentication for user login and session management
 
 ### State Management:
-- **Context API / Redux**: For global state handling
+- **Context API / Zustand**: For global state handling
 
 ## *Usage*
  1. Sign Up: Create a new account using the registration form.
